@@ -1,0 +1,43 @@
+#container {
+    width: 100%;
+    height: auto;
+    /* border: 1px solid black; */
+}
+#header {
+    width: 100%;
+    height: 310px;
+    /* border: 1px ridge black; */
+    background-color: rgb(253, 253, 253);
+}
+.Tables {
+    width: 100%;
+    height: auto;
+    /* border: 1px ridge black; */
+}
+.tablehead, .Col {
+    width: 50%;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    /* border: 1px ridge black; */
+}
+.Col {
+    background-color:  rgb(245, 245, 247);
+    color: black;
+    height: 270px;
+    
+}
+.tablehead {
+    height: 50px;
+}
+#images {
+    width: 100%;
+    height: 269px;
+    background-color:  rgb(245, 245, 247);
+}
+#title, #imgtitle {
+    font-size: 450%;
+    font-weight: bold;
+    text-align: center;
+    background-color:  rgb(245, 245, 247);
+}
+
