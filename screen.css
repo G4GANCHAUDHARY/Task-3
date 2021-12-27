@@ -2,7 +2,7 @@
     width: 100%;
     height: auto;
     /* border: 1px solid black; */
-}
+} 
 #header {
     width: 100%;
     height: 310px;
@@ -30,14 +30,24 @@
     height: 50px;
 }
 #images {
-    width: 100%;
-    height: 269px;
+    border: 3px solid black;;
+    width: 50%;
+    height: 200px;
     background-color:  rgb(245, 245, 247);
+    border-radius: 10px;
 }
 #title, #imgtitle {
-    font-size: 450%;
+    font-size: 250%;
     font-weight: bold;
     text-align: center;
-    background-color:  rgb(245, 245, 247);
+    background-color: rgb(253, 253, 253);
+    text-align: left;
 }
-
+li{
+    margin: 40px;
+}
+a{
+    font-size: xx-large;
+    text-decoration: none;
+    font-weight: bold;
+}
